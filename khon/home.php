@@ -41,7 +41,7 @@ session_start();
         <li><a href="about.html">About Us </a></li>
         <li><a href="fqa.html">FAQ</a></li>
         <li><a href="articles.html">Articles</a></li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><a href="contact.php">Contact</a></li>
 		 <li><a href="logout.php">Logout</a></li>
       </ul>
     </div>
