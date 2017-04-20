@@ -37,7 +37,7 @@ session_start();
     <div class="menu">
       <ul>
         <li><a href="index.html">Home</a></li>
-        <li><a href="register.php">Login</a></li>
+        <li><a href="login.php">Login</a></li>
         <li><a href="about.html">About Us </a></li>
         <li><a href="fqa.html">FAQ</a></li>
         <li><a href="articles.html">Articles</a></li>
